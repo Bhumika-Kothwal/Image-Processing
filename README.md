@@ -2,7 +2,7 @@
 ## Tables of Contents
   * [About](#about)
   * [Task 1](#task-1)
-  * [Task 2](#task-2
+  * [Task 2](#task-2)
   
 ## About
 The tasks are performed without using any of the libraries such as cv2 unless specified. The packages used are Numpy and PIL.         
