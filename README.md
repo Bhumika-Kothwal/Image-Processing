@@ -2,6 +2,7 @@
 ## Tables of Contents
   * [About](#about)
   * [Task 1](#task-1)
+  * [Task 2](#task-2)
   
 ## About
 The tasks are performed without using any of the libraries such as cv2 unless specified. The packages used are Numpy and PIL.         
@@ -12,5 +13,7 @@ Rotating the given image by various angles without the use of inbuilt rotate fun
   > Original image -  
   ![**original image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Image%20Rotation/rotate.png)  
     
-  > Rotating it by 45degree -
-  
+  > Rotating it by 50 degree -  
+  ![**rotated image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Image%20Rotation/rotated_50.png)
+   
+## Task 2
