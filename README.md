@@ -20,10 +20,16 @@ Rotating the given image by various angles without the use of inbuilt rotate fun
 ## Task 2
 ### Blurring Image
 Blurring the image with 5x5 kernels without using inbuilt functions.
- > **Original image** - &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  **Box Blur** - &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  **Gaussian Blur** -   </br>
- ![**original image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/blur_input.jpeg)   &emsp;  &emsp;  &emsp; ![**box_blur**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/box_blur.png)    &emsp;  &emsp;  &emsp;  ![**gaussian_blur**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/gaussian_blur.png)  
+ > **Original image** -  
+ ![**original image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/blur_input.jpeg)    
+ > **Box Blur** -  
+ ![**box_blur**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/box_blur.png)     
+ > **Gaussian Blur** -    
+ ![**gaussian_blur**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/gaussian_blur.png)    
  
  ### Sharpening Image
  Sharpening the image with 5x5 kernel without using inbuilt functions.
-  > **Original Image** - &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;   &emsp;  &emsp; &emsp;  &emsp;  &emsp;  &emsp;   &emsp;  &emsp;  &emsp; **After Sharpening** -
-  ![**original image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/sharpen_input.png) ![**sharpened image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/sharpen_output.png)
+  > **Original Image** -   
+  ![**original image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/sharpen_input.png)    
+  > **After Sharpening** -    
+  ![**sharpened image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/sharpen_output.png)
