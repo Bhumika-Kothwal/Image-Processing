@@ -10,6 +10,7 @@
     * [Sobel Edge Detection](#sobel-edge-detection) 
     * [Canny Edge Detection](#canny-edge-detection) 
   * [Task 5](#task-5) 
+  * [Task 6](#task-6) 
    
 ## About
 The tasks are performed without using any of the libraries such as cv2 unless specified. The packages used are Numpy and PIL.         
