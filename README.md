@@ -10,6 +10,7 @@
     * [Sobel Edge Detection](#sobel-edge-detection) 
     * [Canny Edge Detection](#canny-edge-detection) 
   * [Task 5](#task-5) 
+  * [Task 6](#task-6) 
    
 ## About
 The tasks are performed without using any of the libraries such as cv2 unless specified. The packages used are Numpy and PIL.         
@@ -55,3 +56,10 @@ Vertical Edge Detection                     |  Horizontal Edge Detection
 Input Image                     |  Blue Ball Detection
 :-------------------------:|:-------------------------:
 <img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Masking/mask.jpg">|<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Masking/Blue%20Ball%20Detected.png">
+
+## Task 6
+### ROI extraction
+Input Image                     |  Output Image
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/ROI/roi.jpg">|<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/ROI/ROI-output.jpg">
+
