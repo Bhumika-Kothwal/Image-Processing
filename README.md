@@ -5,10 +5,12 @@
   * [Task 2](#task-2)
     * [Blurring Image](#blurring-image)
     * [Sharpening Image](#sharpening-image)
-   * [Task 3](#task-3)
-    * [Vertical and Horizontal Edge Detection](#vertical-and-horizontal-edge-detection)
-    * [Sobel Edge Detection](#sobel-edge-detection)
-    * [Canny Edge Detection](#canny-edge-detection)
+  * [Task 3](#task-3) 
+    * [Vertical and Horizontal Edge Detection](#vertical-and-horizontal-edge-detection) 
+    * [Sobel Edge Detection](#sobel-edge-detection) 
+    * [Canny Edge Detection](#canny-edge-detection) 
+  * [Task 5](#task-5) 
+   
 ## About
 The tasks are performed without using any of the libraries such as cv2 unless specified. The packages used are Numpy and PIL.         
 Done under the guidance of SRA VJTI.
@@ -47,3 +49,9 @@ Vertical Edge Detection                     |  Horizontal Edge Detection
 ![**sobel edge detected image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/sobel.png)
 ### Canny Edge Detection -
 ![**canny edge detected image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/canny.png)
+
+## Task 5
+### Masking  
+Input Image                     |  Blue Ball Detection
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Masking/mask.jpg">|<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Masking/Blue%20Ball%20Detected.png">
