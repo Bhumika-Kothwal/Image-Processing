@@ -5,6 +5,10 @@
   * [Task 2](#task-2)
     * [Blurring Image](#blurring-image)
     * [Sharpening Image](#sharpening-image)
+   * [Task 3](#task-3)
+    * [Vertical and Horizontal Edge Detection](#vertical-and-horizontal-edge-detection)
+    * [Sobel Edge Detection](#sobel-edge-detection)
+    * [Canny Edge Detection](#canny-edge-detection)
 ## About
 The tasks are performed without using any of the libraries such as cv2 unless specified. The packages used are Numpy and PIL.         
 Done under the guidance of SRA VJTI.
@@ -33,3 +37,13 @@ Blurring the image with 5x5 kernels without using inbuilt functions.
   ![**original image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/sharpen_input.png)    
   > **After Sharpening** -    
   ![**sharpened image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Applying%20Kernels/sharpen_output.png)
+
+## Task 3
+### Vertical and horizontal Edge Detection -
+Vertical Edge Detection                     |  Horizontal Edge Detection
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/v-edge.png">|<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/h-edge.png">
+### Sobel Edge Detection -
+![**sobel edge detected image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/sobel.png)
+### Canny Edge Detection -
+![**canny edge detected image**](https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/canny.png)
