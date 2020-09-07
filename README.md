@@ -38,17 +38,19 @@ Blurring the image with 5x5 kernels without using inbuilt functions.
 
 ## Task 3
 ### Edge Detection
- Original Image  
- <img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/edge-detection2.jpg">
- Vertical Edge Detection  | Horizontal Edge Detection  | Sobel Edge Detection  | Canny Edge Detection
-:-----:|:-----:|:-----:|:-----:
-<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/v-edge2.png">|<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/h-edge2.png">|<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/sobel2.png">|<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/canny2.png">
+ Original Image  | Vertical Edge Detection  | Horizontal Edge Detection
+:-----:|:-----:|:-----:
+<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/edge-detection2.jpg">|<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/v-edge2.png">|<img width="340" height="300" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/h-edge2.png">
+  Sobel Edge Detection  | Canny Edge Detection
+:-----:|:-----:
+<img width="340" height="300" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/sobel2.png">|<img width="340" height="300" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/canny2.png">
 
 ## Task 4
 ### Morphology
  Original Image  | Erosion  | Dilation  | Dilated Edge Detection
  :-----:|:-----:|:-----:|:-----:
  <img width="240" height="300" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Erosion%20%26%20Dilation/morphological.png">|<img width="240" height="300" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Erosion%20%26%20Dilation/Erosion.png">|<img width="240" height="300" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Erosion%20%26%20Dilation/Dilation.png">|<img width="240" height="300" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Erosion%20%26%20Dilation/Edge-Detection.png">
+ 
  
 ## Task 5
 ### Masking  
