@@ -42,7 +42,6 @@ Blurring the image with 5x5 kernels without using inbuilt functions.
 :-----:|:-----:|:-----:
 <img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/edge-detection2.jpg">|<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/v-edge2.png">|<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/h-edge2.png">
   Sobel Edge Detection  | Canny Edge Detection
-:-----:|:-----:
 <img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/sobel2.png">|<img width="340" height="340" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/Edge%20Detection/canny2.png">
 
 ## Task 4
