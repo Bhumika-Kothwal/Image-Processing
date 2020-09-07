@@ -61,5 +61,5 @@ Input Image                     |  Blue Ball Detection
 ### ROI extraction
 Input Image                     |  Output Image
 :-------------------------:|:-------------------------:
-<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/ROI/roi.jpg">|<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/ROI/ROI-output.jpg">
+<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/ROI/roi.jpg">|<img width="640" height="450" src="https://github.com/Bhumika-Kothwal/Image-Processing/blob/master/ROI/ROI-output.png">
 
